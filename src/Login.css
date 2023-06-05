@@ -1,0 +1,21 @@
+.auth {
+    height: 100vh;
+  }
+  
+  .grid-container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    height: 100%;
+  }
+  
+  .bg {
+    background-image: url('../public/iStock-1168305647.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  .overflow-auto {
+    overflow: auto;
+  }
+  
